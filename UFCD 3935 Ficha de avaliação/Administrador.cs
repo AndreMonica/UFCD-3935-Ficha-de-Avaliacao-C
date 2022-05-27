@@ -9,12 +9,13 @@ public class Administrador : Empregado
     //Atributos
     public float ajudasDeCustos;
 
-
+    //Constructor
     public Administrador(string nome, int idade, int altura, string sexo, float salario, float ajudasDeCustos) : base(nome, idade, altura, sexo, salario)
     {
         this.ajudasDeCustos = ajudasDeCustos;
     }
 
+    //Set e Get
     public float AjudasDeCustos
     {
         get => ajudasDeCustos;

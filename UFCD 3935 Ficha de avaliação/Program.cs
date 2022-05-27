@@ -1,8 +1,6 @@
 ﻿// UFCD 3935 | Ficha de avaliação
-
 /*
- * 1ª Parte
-
+1ª Parte
 Implemente a classe Pessoa que têm como atributos  nome, idade, altura e sexo.Construa os métodos set e get para 
 cada variável da instância e um construtor para a classe.
 Construa depois uma classe Empregado que deve ser uma subclasse da classe Pessoa (herança), adicionando um novo 
@@ -29,9 +27,9 @@ Escreva no Program.cs os testes que achar adequados para esta classe.
  */
 
 /*
-READ ME:
-Teste realizado a' letra escrito no enunciado acima.
-Cada "linha" do enunciado esta "espalhada" por comentario ao longo do codigo na sua devida localizacao
+!READ ME:
+!Teste realizado a' letra escrito no enunciado acima.
+!Cada "linha" do enunciado esta "espalhada" por comentario ao longo do codigo na sua devida localizacao
 */
 
 using UFCD_3935_Ficha_de_avaliação;
