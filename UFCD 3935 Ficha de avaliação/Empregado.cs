@@ -22,7 +22,7 @@ public class Empregado : Pessoa
     
     //Construa um método obterLucros que devolva o lucro(salário) do empregado. 
     //Method
-    public float obterLucros()
+    public virtual float ObterLucros()
     {
         // ??? ok
         return (salario);
